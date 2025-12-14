@@ -2,5 +2,5 @@
 > Because it looks nice
 
 ```
-elsie@blossom ~ % ›››
+elsie@blossom ~/Projects/twilight-prompt % ›››                          [master]
 ```
